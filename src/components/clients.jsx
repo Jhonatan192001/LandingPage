@@ -7,7 +7,11 @@ const Clients = () => {
             Trusted by greatest companies
             </h1>
             <div className="flex flex-col md:flex-row items-center flex-wrap gap-20">
-                
+                <img src="google.png" className="w-40" />
+                <img src="airbnb.png" className="w-40" />
+                <img src="amazon.png" className="w-40" />
+                <img src="shopify.png" className="w-40" />
+                <img src="google.png" className="w-40" />
             </div>
         </div>
     );

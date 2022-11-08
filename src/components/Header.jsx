@@ -17,13 +17,13 @@ const Header = () => {
                 <a href="#Home">
                     Home
                 </a>
-                <a href="#aboutUs">
+                <a href="#Footer">
                     About Us
                 </a>
-                <a href="#services">
+                <a href="#Services">
                     Services
                 </a>
-                <a href="#aboutUs">
+                <a href="#AboutUs">
                     Products
                 </a>
             </nav>
